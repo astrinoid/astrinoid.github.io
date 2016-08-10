@@ -1,0 +1,57 @@
+	html {
+		background-image: url(https://static.pexels.com/photos/71298/pexels-photo-71298.jpeg);
+		background-attachment: fixed;
+		background-repeat: no-repeat;
+		background-color: 000000;
+		padding-top: 80px;
+		background-size: cover;
+	}
+
+	body{
+		text-align: center;
+
+	}
+
+	h1 {
+		color: 000000;
+		font-family: "fertigo-script";
+	}
+	h2 {
+		color:000000;
+		font-family: "myriad-std-tilt";
+	}
+	body {
+		color: 000000;
+		font-family: "myriad-std-tilt";
+		border:dotted 2px;
+		border-color: black;
+		background-color: ffffff;
+		margin: 0px 100px 100px 880px;
+		width: 400px;
+		height: 280px;
+		padding-bottom:150px;
+	}
+	section p {
+		max-width: 500px;
+		margin: 50;
+	}
+	a {
+		color: hotPink;
+		font-size: 125%;
+		font-family: "myriad-std-tilt;
+		text-decoration: none;
+	
+	}
+	a:hover {
+		color: lightBlue;
+		font-size: 135%;
+		text-decoration: uppercase; 
+}
+	footer {
+		color: darkGray;
+		font-family: serif;
+		font-size: 100%;
+		background-image:url();
+		background-attachment: fixed;
+		background-size: cover;
+	}
