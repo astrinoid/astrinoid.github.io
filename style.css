@@ -148,7 +148,7 @@ p {
 	float:left;
 	bottom:50px;
 	left:420px;
-	transition-duration: 5s;
+	transition-duration: 20s;
 	transition-delay: 7s;
 
 }
@@ -157,7 +157,7 @@ p {
 	float:right;
 	bottom:20px;
 	right:420px;
-	transition-duration: 5s;
+	transition-duration: 20s;
 	transition-delay: 7s;
 }
 
