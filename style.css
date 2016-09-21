@@ -82,8 +82,8 @@ p {
 
 }
 #night-elf {
-	background-image:url('http://vignette3.wikia.nocookie.net/wowwiki/images/0/07/Teldrassil_Concept.jpg/revision/latest?cb=20130329190025');
-	background-attachment:;
+	background-image:url('https://i.ytimg.com/vi/LYhknuaKiTo/maxresdefault.jpg);
+	background-attachment:fixed;
 	background-size: cover;
 	color: #ffffff;
 	padding:;
@@ -114,8 +114,8 @@ p {
 #undead {
 	background-image:url('http://media-azeroth.cursecdn.com/attachments/22/568/634951365092349893.jpg');
 	background-repeat: no-repeat;
-	background-attachment:;
-	background-size:covers;
+	background-attachment:fixed;
+	background-size:cover;
 	color: #ffffff;
 	padding-top:10px;
 	margin-top:1680px;
